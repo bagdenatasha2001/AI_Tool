@@ -26,4 +26,4 @@ AI Helper Tool is a web-based chat assistant built with React.js and Tailwind CS
 
 ---
 
-## 📂 Project Structure  
+
