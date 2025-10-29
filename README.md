@@ -1,6 +1,9 @@
 # AI Helper Tool – Chat Assistant using Google Gemini API
 
-[Live Demo](https://ai-helper-tool.netlify.app/) • [GitHub Repository](https://github.com/bagdenatasha2001/AI_Tool)
+
+### 🌐 Live Demo
+
+[https://ai-helper-tool.netlify.app/](https://ai-helper-tool.netlify.app/)
 
 ---
 
