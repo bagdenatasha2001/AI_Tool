@@ -24,6 +24,23 @@ AI Helper Tool is a web-based chat assistant built with React.js and Tailwind CS
 - **Build & Deploy:** Vite, Netlify  
 - **Version Control:** Git & GitHub
 
+
+---
+## 🔗 Useful Links
+
+* 🌐 **Live Demo:** [https://ai-helper-tool.netlify.app/](https://ai-helper-tool.netlify.app/)
+* 💻 **GitHub Repository:** [https://github.com/bagdenatasha2001/AI_Tool](https://github.com/bagdenatasha2001/AI_Tool)
+
+---
+
+## 🧑‍💻 Author
+
+**Natasha Bagde**
+Frontend Developer | Passionate about React.js, Tailwind CSS, and modern web design.
+
+* 🔗 [GitHub](https://github.com/bagdenatasha2001)
+* 🔗 [LinkedIn](https://linkedin.com/in/natasha-bagde-250671234/)
+
 ---
 
 
