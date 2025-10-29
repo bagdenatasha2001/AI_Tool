@@ -1,16 +1,29 @@
-# React + Vite
+# AI Helper Tool – Chat Assistant using Google Gemini API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Live Demo](https://ai-helper-tool.netlify.app/) • [GitHub Repository](https://github.com/bagdenatasha2001/AI_Tool)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 Overview  
+AI Helper Tool is a web-based chat assistant built with React.js and Tailwind CSS, utilizing the Google Gemini API for real-time text generation. Designed to offer a sleek, responsive interface and leverage AI to support users with dynamic conversational interactions.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Features  
+- Built conversational UI with React components and styled using Tailwind CSS for a modern look and feel.  
+- Integrated Google Gemini API to handle user inputs and return meaningful responses in real time.  
+- Developed mobile-first, responsive design to ensure seamless performance across devices.  
+- Deployed on Netlify for public access and straightforward sharing.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack  
+- **Frontend:** React.js, JavaScript (ES6+)  
+- **Styling:** Tailwind CSS  
+- **API:** Google Gemini API  
+- **Build & Deploy:** Vite, Netlify  
+- **Version Control:** Git & GitHub
+
+---
+
+## 📂 Project Structure  
